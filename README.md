@@ -1,12 +1,12 @@
-### Weekly EDS 232 Labs
+# Weekly EDS 232 Labs
 
 This repository houses the weekly labs for EDS 232, Environmental Machine Learning course at the Bren School of Environmental Science &amp; Management. Follow the instructions on the course website (or below) to fork this repository and pull the weekly labs.  
 
 
 
-# Initial Repository Setup
+## Initial Repository Setup
 
-## Step 1: Fork the Repository
+### Step 1: Fork the Repository
 
 1. **Navigate to the following Repository**: https://github.com/annieradams/EDS232-labs
 
@@ -21,7 +21,7 @@ This repository houses the weekly labs for EDS 232, Environmental Machine Learni
 `git clone URL_OF_YOUR_FORK`
 
 
-## Step 3: Configure your remote branch
+### Step 3: Configure your remote branch
 
 1. **Add upstream remote branch.**: Change your directory to the new repository. Once there, copy the following line into your terminal:
 
@@ -36,7 +36,7 @@ This repository houses the weekly labs for EDS 232, Environmental Machine Learni
 
 
 
-# Weekly Fetching to get new labs
+## Weekly Fetching to get new labs
 
 To ensure you have the latest lab materials each week, make sure you are at the correct directoy and copy the following code in the terminal: 
 
