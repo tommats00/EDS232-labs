@@ -1,2 +1,5 @@
 # Add ipynb checkpoints
 .ipynb_checkpoints/
+
+# ignore data
+data/*
